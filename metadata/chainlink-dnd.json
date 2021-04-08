@@ -1,0 +1,19 @@
+{
+    "name":"King Sting",
+    "description":"The King of Conquerors",
+    "image":"https://ipfs.io/ipfs/QmaLGWDK4kBkcR6KvJoxfUFEWdxNVnNGJPbnVcv9AisRZJ?filename=zoro.png",
+    "attributes":[
+        {
+            "trait_type": "strength",
+            "value": 47
+        },
+        {
+            "trait_type":"speed",
+            "value":85
+        },
+        {
+            "trait_type":"stamina",
+            "value":9
+        }
+    ] 
+}
